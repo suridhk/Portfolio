@@ -1,4 +1,4 @@
-# Introduction to Programming – Coursework Portfolio
+# Fundamentals of Computer Programming – Coursework Portfolio
 
 This repository archives all academic work completed during the **Introduction to Programming** module. It serves as a record of my progressive development in **Python**, spanning foundational theory, weekly coding challenges, and comprehensive final projects.
 
